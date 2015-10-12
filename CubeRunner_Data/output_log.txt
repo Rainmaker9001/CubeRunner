@@ -1,0 +1,48 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 8.17.12.9687]
+    Renderer: NVIDIA NVS 5200M 
+    Vendor:   NVIDIA
+    VRAM:     978 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=Direct3D:F24 0 Version:  Direct3D 9.0c [nvd3dum.dll 8.
+17.12.9687]
+    Renderer: NVIDIA NVS 5200M 
+    Vendor:   NVIDIA
+    VRAM:     978 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+Plltfofm rsmembsy: m:blser C:\UsersstTpipmo\eDtesknttoPpo\ectsjCebcRun\ernCibeRPnror_Dcta\\aCagedR\Unir\yCnubneRulnn(ehisDmesaa\eMianagrmless)
+Engine.Loa inthC:s\Usersge i\s harmleproj
+ectsLUndiynroge tC\:\bURunres\\uTeiu\nDreDstk\tanp\pd\onjtycntis\Udli iytP roijyeCcitdsDomuib
+eRunner\CubeRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Plattform assembly: C:\Users\TimerDesktopespktjopt\pUnojyPcts\UnityubrRojects\CbbeRunnerr_Data\nneraData\Manambly-CSharp-fCSrstpass.dll (thil  (ehisage is harmless)
+less)
+LoaLong C:\U:\ers\s\Tim\Destop\projects\UnityPrroecctsCub\RCnubeRunneeRunnerunnera\ManaMgedgedssesemlyy-CSharp--firstpss.s.dll into Uni Cy ldhild ino
+main
+Platffro rsme bayssemblser C:i\Useekros\\rTjectDeUnitypr\jpcrsoCjbeRcntsr\Uuneiutyer_ojte\catase\\ubeRmulnnUeiryScCiutbferRtuasnedrl_(Dhasta\sMaan asgherdl\sA)s
+sembLlay-ng i:\Uceri\pit\-efkirpsproaect.s\lUntitsymPsragj es ha\Cuebe)R
+unnLr\dCnu b:eRsunn\eir\_eDkaotap\ojecasgUeidy\rAjscsseCmblRyn-eU\nuietuynSrcraiapMtn-gfd\AsspmalssUnilylc into iUsnpisty lC hniolUdi yDohiadiDnma
+in
+Platform assembly: C:\Users\Tim\Desktop\proajfecmtsssenibly: C:\Usersu\Tim\Der\Cub\puojer_D\UniManaged\As\CubeRunner\CubeRunner_(this message is harm-Unity
+ScriptLoad (thCs message m\Desktop\pro
+jectLoading C:\Users\TimRunnetop\prRjectr_DnityParojeectssembly-UnitySubeRunner Dato ManageChild DomaiUn
+ityScript.dll into Unity Child Domain
+- Completed reload, in  2.254 seconds
+- Completed reload, in  2.259 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Initializing input.
+<<IRI> Input itialized.
+
+Platform assembly: C:\Users\Tim\Desktop\projects\UnityProjects\CubeRunner\CubeRunner_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 28.014700 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 150.
+Total: 1.085755 ms (FindLiveObjects: 0.016989 ms CreateObjectMapping: 0.015804 ms MarkObjects: 0.135126 ms  DeleteObjects: 0.274994 ms)
+
